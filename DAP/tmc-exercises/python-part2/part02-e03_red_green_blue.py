@@ -1,8 +1,6 @@
-#!/usr/bin/env python3
-
 import re
 
-def red_green_blue(filename="src/rgb.txt"):
+def red_green_blue(filename="rgb.txt"):
     outlist = []
     with open(filename, 'r') as file:
         for line in file: 
@@ -13,9 +11,8 @@ def red_green_blue(filename="src/rgb.txt"):
                 outlist.append("\t".join([red, green, blue, colorname]))
     return outlist
 
-
 def main():
-    print(red_green_blue(filename="part02-e03_red_green_blue/src/rgb.txt"))
+    print(red_green_blue(filename="rgb.txt"))
 
 if __name__ == "__main__":
     main()
