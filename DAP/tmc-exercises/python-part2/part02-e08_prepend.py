@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 class Prepend(object):
     def __init__(self, start):
         self.start = start 
