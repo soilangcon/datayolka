@@ -1,8 +1,8 @@
 # To-Do List
 
-- [x] ![](https://img.shields.io/badge/status-completed-brightgreen) Exercise 1.1 (hello world)
-- [x] ![](https://img.shields.io/badge/status-completed-brightgreen) Exercise 1.2 (compliment)
-- [x] ![](https://img.shields.io/badge/status-completed-brightgreen) Exercise 1.3 (multiplication)
+![](https://img.shields.io/badge/status-completed-brightgreen) Exercise 1.1 (hello world)
+![](https://img.shields.io/badge/status-completed-brightgreen) Exercise 1.2 (compliment)
+![](https://img.shields.io/badge/status-completed-brightgreen) Exercise 1.3 (multiplication)
 - [x] ![](https://img.shields.io/badge/status-completed-brightgreen) Exercise 1.4 (multiplication table)
 - [x] ![](https://img.shields.io/badge/status-completed-brightgreen) Exercise 1.5 (two dice)
 - [x] ![](https://img.shields.io/badge/status-completed-brightgreen) Exercise 1.6 (triple square)
