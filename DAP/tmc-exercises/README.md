@@ -1,7 +1,7 @@
 # To-Do List
 
 - [x] Python (Part 1)
-- [ ] Python (Part 2)
+- [x] Python (Part 2)
 - [ ] Numpy (Part 1)
 - [ ] Numpy (Part 2)
 - [ ] Matplotlib
