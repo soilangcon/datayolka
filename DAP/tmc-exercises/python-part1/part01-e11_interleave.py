@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 def interleave(*lists):
     outlist = []
     for tuple in list(zip(*lists)):
