@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import re
 
 def file_extensions(filename):
@@ -19,7 +18,7 @@ def file_extensions(filename):
     return (filenames, extensions)
 
 def main():
-    filenames, extensions = file_extensions("part02-e07_file_extensions/src/filenames.txt")
+    filenames, extensions = file_extensions("filenames.txt")
     print(f"{len(filenames)} files with no extension")
     for fext in extensions:
         print(f"{fext} {len(extensions[fext])}")
