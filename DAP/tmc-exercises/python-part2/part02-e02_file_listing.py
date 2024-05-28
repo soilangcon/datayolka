@@ -1,9 +1,6 @@
-#!/usr/bin/env python3
-
 import re
 
-
-def file_listing(filename="src/listing.txt"):
+def file_listing(filename="listing.txt"):
     outlist = []
     with open(filename, 'r') as file:
         for line in file: 
