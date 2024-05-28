@@ -1,6 +1,6 @@
 import sys
 
-def file_count(filename):
+def file_count(filename='test.txt):
     linecount, wordcount, lettercount = 0, 0, 0
     with open(filename, 'r') as f:
         for line in f:
