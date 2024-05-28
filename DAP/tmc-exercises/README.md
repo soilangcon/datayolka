@@ -6,9 +6,9 @@
 - [ ] Numpy (Part 2)
 - [ ] Matplotlib
 - [ ] Image Processing
-- [ ] Pandas 1
-- [ ] Pandas 2
-- [ ] Pandas 3
+- [ ] Pandas (Part 1)
+- [ ] Pandas (Part 2)
+- [ ] Pandas (Part 3)
 - [ ] Machine Learning: Linear Regression
 - [ ] Naive Bayes Classification
 - [ ] Clustering
