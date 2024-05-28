@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import numpy as np
 
 def first_half_second_half(a):
