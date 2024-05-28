@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 def extract_numbers(s):
     s = s.split()
     outlist = []
