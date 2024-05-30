@@ -3,7 +3,7 @@
 - [x] Python (Part 1)
 - [x] Python (Part 2)
 - [x] Numpy (Part 1)
-- [ ] Numpy (Part 2)
+- [x] Numpy (Part 2)
 - [x] Matplotlib
 - [ ] Image Processing
 - [ ] Pandas (Part 1)
