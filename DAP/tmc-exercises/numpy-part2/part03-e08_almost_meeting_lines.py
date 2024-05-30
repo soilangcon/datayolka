@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 import numpy as np
 
 def almost_meeting_lines(a1, b1, a2, b2):
