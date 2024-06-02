@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-
 import numpy as np
 import matplotlib.pyplot as plt
-# import matplotlib.image as mpimg
 
 """
 def to_grayscale(image_path="src/painting.png"):
@@ -31,7 +28,7 @@ def to_blue(imarr):
 
 def main():
     # Read the image using Matplotlib
-    image_path = 'src/painting.png'  # Replace with your image path
+    image_path = 'part03-e11_to_grayscale_painting.png'  # Replace with your image path
     image = plt.imread(image_path)
     gray_image = to_grayscale(image)
     plt.gray()
