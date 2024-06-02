@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 """
-def to_grayscale(image_path="part03-e11_to_grayscale_painting.png"):
+def to_grayscale(image_path="painting.png"):
     image = plt.imread(image_path)
     image = image.copy()
     gray_image = image[:,:, 0]*0.2126 + image[:, :, 1]*0.7152+ image[:, :, 2]*0.0722
@@ -29,7 +29,7 @@ def to_blue(imarr):
 
 def main():
     plt.gray()
-    plt.imshow(to_grayscale(plt.imread('part03-e11_to_grayscale_painting.png')))
+    plt.imshow(to_grayscale(plt.imread('painting.png')))
     plt.show()
 
     fig, axs = plt.subplots(3, 1, figsize=(5, 15))
