@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 """
-def to_grayscale(image_path="src/painting.png"):
+def to_grayscale(image_path="part03-e11_to_grayscale_painting.png"):
     image = plt.imread(image_path)
     image = image.copy()
     gray_image = image[:,:, 0]*0.2126 + image[:, :, 1]*0.7152+ image[:, :, 2]*0.0722
