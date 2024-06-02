@@ -6,3 +6,4 @@
 - [ ] Traitement d'images : introduction au filtrage
 - [ ] Traitement d'images : analyse fréquentielle et multi-échelle
 - [ ] Traitement d'images : segmentation et caractérisation
+- [ ] Image Processing MATLAB
