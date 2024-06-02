@@ -3,5 +3,5 @@
 - [ ] Exercise 3.12 (radial fade)
 
 # More
-- [ ] Traitement d'images Python
+- [ ] Traitement d'images
 - [ ] Image Processing Matlab
