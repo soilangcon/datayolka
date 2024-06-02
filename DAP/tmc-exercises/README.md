@@ -5,7 +5,7 @@
 - [x] Numpy (Part 1)
 - [x] Numpy (Part 2)
 - [x] Matplotlib
-- [ ] Image Processing
+- [x] Image Processing
 - [ ] Pandas (Part 1)
 - [ ] Pandas (Part 2)
 - [ ] Pandas (Part 3)
