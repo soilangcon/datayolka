@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -49,7 +47,7 @@ def radial_fade(a):
 
 
 def main():
-    image = plt.imread('src/painting.png')
+    image = plt.imread('painting.png')
     
     mask = radial_mask(image)
     
